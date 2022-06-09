@@ -45,7 +45,6 @@ def run():
       print(cyan+"[ × ]  𝗡𝗚𝗔𝗕 𝗢𝗪𝗜 KIRIM KE =",red+ip,":",port)
     except:
       print(cyan+"[ × ]  𝗡𝗚𝗔𝗕 𝗢𝗪𝗜 KIRIM KE =",red+ip,":",port)
-)
 
 def run2():
   data = random._urandom(16)
